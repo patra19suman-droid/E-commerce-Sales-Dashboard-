@@ -47,4 +47,6 @@ A dynamic, interactive **Power BI Dashboard** that empowers stakeholders to make
 
 ### 📺 Dashboard Preview  
 https://github.com/patra19suman-droid/E-commerce-Sales-Dashboard-/blob/main/E-commerce%20Sales%20Dashboard%20Image.jpg
+
+https://github.com/patra19suman-droid/E-commerce-Sales-Dashboard-/blob/main/E-commerce%20Sales%20Dashboard%20Video.mp4
 ---
