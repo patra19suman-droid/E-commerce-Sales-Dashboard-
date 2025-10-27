@@ -1,4 +1,4 @@
-# # 📊 XYZ Sales Dashboard (Power BI Project)
+# # 📊 XYZ E-commerce Sales Dashboard (Power BI Project)
 
 ## 🔍 Project Overview  
 This Power BI project analyzes and visualizes **XYZ’s sales performance** to uncover insights on revenue, profit, customer behavior, and product performance.  
